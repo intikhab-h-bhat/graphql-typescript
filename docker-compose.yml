@@ -1,0 +1,20 @@
+version: '3.9'
+services:
+  webapi:
+    image: cms-image
+    ports:
+      - "5023:5022"
+    networks:
+      - app-network
+
+  frontend:
+    build: .
+    ports:
+      - "3000:80" # react app exposed on port 3000
+    depends_on:
+      - webapi
+    networks:
+      - app-network
+
+networks:
+  app-network:
