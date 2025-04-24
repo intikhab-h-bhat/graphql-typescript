@@ -23,7 +23,6 @@
 
 ### Resources
 - [Clean Code by Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
-- [Refactoring Techniques](https://refactoring.guru/refactoring)
 - [GitHub Code Review Best Practices](https://mtlynch.io/human-code-reviews-1/)
 
 ---
@@ -40,17 +39,24 @@
 
 ---
 
-## API Development & Middleware
+## API Development & Middleware,Authentication
 ### Topics Covered
 - RESTful APIs
 - Middleware in ASP.NET
-- Authentication/Authorization
+- Authentication/Authorisation
+- JWT Authentication
+- CORS
+
 
 ### Resources
 - [ASP.NET Core Web API Tutorial](https://learn.microsoft.com/en-us/aspnet/core/web-api/)
 - [Creating first Web/Rest Api](https://www.youtube.com/watch?v=TbcG-q6hKHQ&list=PL3ewn8T-zRWgO-GAdXjVRh-6thRog6ddg&index=7)
 - [Postman API Testing](https://learning.postman.com/)
 - [Authentication in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/)
+- [JWT Authentication](https://www.youtube.com/watch?v=r3sFhMTU19s&list=PL3ewn8T-zRWgO-GAdXjVRh-6thRog6ddg&index=70)
+- [Asp.Net membership with JWT Authentication](https://www.youtube.com/watch?v=z5ItU_fxUdE)
+- [CORS in Web Api](https://www.youtube.com/watch?v=X7t9Oal9voQ&list=PL3ewn8T-zRWgO-GAdXjVRh-6thRog6ddg&index=61)
+- [CORS in Web Api 2](https://www.youtube.com/watch?v=j_RJBMLfArQ&list=PL3ewn8T-zRWgO-GAdXjVRh-6thRog6ddg&index=62)
 
 ---
 
@@ -70,16 +76,19 @@
 
 ---
 
-## Exception Handling & Logging
+## Exception Handling & Logging,
 ### Topics Covered
 - Try/Catch Blocks
 - Logging Frameworks
 - Global Error Handling
+- Documenting Web Api responses and Status Codes
 
 ### Resources
 - [Exception Handling in C#](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/)
+- [Built in Logger](https://www.youtube.com/watch?v=JUHJZhbIloM&list=PL3ewn8T-zRWgO-GAdXjVRh-6thRog6ddg&index=30)
 - [Serilog to file in Web/Rest Api](https://www.youtube.com/watch?v=IDsiVeOe6Uw&list=PL3ewn8T-zRWgO-GAdXjVRh-6thRog6ddg&index=32)
-- [NLog](https://nlog-project.org/)
+- [Documenting Web Api responses](https://www.youtube.com/watch?v=DcPkwZM3SJ8&t=6s)
+
 
 ---
 
@@ -140,12 +149,13 @@
 ### Topics Covered
 - JS Fundamentals
 - TS for Strong Typing
+- ReactJs with TypeScript
 
 
 ### Resources
 - [JavaScript Tutorial](https://www.youtube.com/watch?v=Hr5iLG7sUa0&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37)
 - [TypeScript Tutorial](https://www.youtube.com/watch?v=30LWjhZzg50)
-
+-[ReactJs With TypeScript](https://www.youtube.com/watch?v=joTOrCiAPB4)
 
 ---
 
