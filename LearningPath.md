@@ -12,7 +12,6 @@
 - [introduction to Design Patterns](https://www.youtube.com/watch?v=rI4kdGLaUiQ&list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd&index=1)
 
 
-
 ---
 
 ## Code Quality & Best Practices
@@ -22,7 +21,7 @@
 - Refactoring
 
 ### Resources
-- [Clean Code by Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
+- [Clean Code Principles](https://teams.microsoft.com/l/message/19:22d786c7-237e-44d8-a533-c78d7b3e9541_ed34ab5c-a336-4d59-b69f-3eed0cdb19fb@unq.gbl.spaces/1745479530148?context=%7B%22contextType%22%3A%22chat%22%7D)
 - [GitHub Code Review Best Practices](https://mtlynch.io/human-code-reviews-1/)
 
 ---
@@ -33,7 +32,6 @@
 - Unit Testing
 
 ### Resources
-- [TDD in .NET](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test)
 - [Moq Framework](https://github.com/moq/moq4)
 - [xunit testing .net core web api ](https://www.youtube.com/watch?v=U2cQw1DFz2k&list=PLJhxHp6j1l-9iNuiHCt5FtpT7P0BhTFSm)
 
@@ -42,6 +40,7 @@
 ## API Development & Middleware,Authentication
 ### Topics Covered
 - RESTful APIs
+- Automapper
 - Middleware in ASP.NET
 - Authentication/Authorisation
 - JWT Authentication
@@ -52,6 +51,7 @@
 - [ASP.NET Core Web API Tutorial](https://learn.microsoft.com/en-us/aspnet/core/web-api/)
 - [Creating first Web/Rest Api](https://www.youtube.com/watch?v=TbcG-q6hKHQ&list=PL3ewn8T-zRWgO-GAdXjVRh-6thRog6ddg&index=7)
 - [Postman API Testing](https://learning.postman.com/)
+- [Automapper](https://www.youtube.com/watch?v=t6DciFNrwDg&list=PL3ewn8T-zRWgO-GAdXjVRh-6thRog6ddg&index=48)
 - [Authentication in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/)
 - [JWT Authentication](https://www.youtube.com/watch?v=r3sFhMTU19s&list=PL3ewn8T-zRWgO-GAdXjVRh-6thRog6ddg&index=70)
 - [Asp.Net membership with JWT Authentication](https://www.youtube.com/watch?v=z5ItU_fxUdE)
